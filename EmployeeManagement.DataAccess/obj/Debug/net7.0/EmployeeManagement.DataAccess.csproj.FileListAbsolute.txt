@@ -1,0 +1,17 @@
+D:\Vaijul Balar\EmployeeManagementService\EmployeeManagement.DataAccess\bin\Debug\net7.0\EmployeeManagement.DataAccess.deps.json
+D:\Vaijul Balar\EmployeeManagementService\EmployeeManagement.DataAccess\bin\Debug\net7.0\EmployeeManagement.DataAccess.runtimeconfig.json
+D:\Vaijul Balar\EmployeeManagementService\EmployeeManagement.DataAccess\bin\Debug\net7.0\EmployeeManagement.DataAccess.dll
+D:\Vaijul Balar\EmployeeManagementService\EmployeeManagement.DataAccess\bin\Debug\net7.0\EmployeeManagement.DataAccess.pdb
+D:\Vaijul Balar\EmployeeManagementService\EmployeeManagement.DataAccess\bin\Debug\net7.0\EmployeeManagement.Domain.dll
+D:\Vaijul Balar\EmployeeManagementService\EmployeeManagement.DataAccess\bin\Debug\net7.0\EmployeeManagement.Domain.pdb
+D:\Vaijul Balar\EmployeeManagementService\EmployeeManagement.DataAccess\obj\Debug\net7.0\EmployeeManagement.DataAccess.csproj.AssemblyReference.cache
+D:\Vaijul Balar\EmployeeManagementService\EmployeeManagement.DataAccess\obj\Debug\net7.0\EmployeeManagement.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vaijul Balar\EmployeeManagementService\EmployeeManagement.DataAccess\obj\Debug\net7.0\EmployeeManagement.DataAccess.AssemblyInfoInputs.cache
+D:\Vaijul Balar\EmployeeManagementService\EmployeeManagement.DataAccess\obj\Debug\net7.0\EmployeeManagement.DataAccess.AssemblyInfo.cs
+D:\Vaijul Balar\EmployeeManagementService\EmployeeManagement.DataAccess\obj\Debug\net7.0\EmployeeManagement.DataAccess.csproj.CoreCompileInputs.cache
+D:\Vaijul Balar\EmployeeManagementService\EmployeeManagement.DataAccess\obj\Debug\net7.0\Employee.84AFBD48.Up2Date
+D:\Vaijul Balar\EmployeeManagementService\EmployeeManagement.DataAccess\obj\Debug\net7.0\EmployeeManagement.DataAccess.dll
+D:\Vaijul Balar\EmployeeManagementService\EmployeeManagement.DataAccess\obj\Debug\net7.0\refint\EmployeeManagement.DataAccess.dll
+D:\Vaijul Balar\EmployeeManagementService\EmployeeManagement.DataAccess\obj\Debug\net7.0\EmployeeManagement.DataAccess.pdb
+D:\Vaijul Balar\EmployeeManagementService\EmployeeManagement.DataAccess\obj\Debug\net7.0\EmployeeManagement.DataAccess.genruntimeconfig.cache
+D:\Vaijul Balar\EmployeeManagementService\EmployeeManagement.DataAccess\obj\Debug\net7.0\ref\EmployeeManagement.DataAccess.dll
