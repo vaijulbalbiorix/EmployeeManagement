@@ -10,12 +10,12 @@ namespace EmployeeManagement.Api.Controllers
     [Authorize]
     [ApiController]
     [Route("[controller]")]
-    public class EmoloyeeController : ControllerBase
+    public class EmployeeController : ControllerBase
     {
         private readonly IEmployeeService _employeeService;
        
 
-        public EmoloyeeController(IEmployeeService employeeService)
+        public EmployeeController(IEmployeeService employeeService)
         {
             
             _employeeService = employeeService;

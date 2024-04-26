@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\Vaijul Balar\\EmployeeManagementService\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6B07FFB0-F93F-4C76-B2FA-C69D3BDB73CA}|EmployeeManegement.Api\\EmployeeManegement.Api.csproj|d:\\vaijul balar\\employeemanagementservice\\employeemanegement.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B07FFB0-F93F-4C76-B2FA-C69D3BDB73CA}|EmployeeManegement.Api\\EmployeeManegement.Api.csproj|solutionrelative:employeemanegement.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034C4085-7436-4695-8DD7-C5DA4AC4E8EA}|EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj|d:\\vaijul balar\\employeemanagementservice\\employeemanagement.domain\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034C4085-7436-4695-8DD7-C5DA4AC4E8EA}|EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj|solutionrelative:employeemanagement.domain\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6B07FFB0-F93F-4C76-B2FA-C69D3BDB73CA}|EmployeeManegement.Api\\EmployeeManegement.Api.csproj|d:\\vaijul balar\\employeemanagementservice\\employeemanegement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B07FFB0-F93F-4C76-B2FA-C69D3BDB73CA}|EmployeeManegement.Api\\EmployeeManegement.Api.csproj|solutionrelative:employeemanegement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6B07FFB0-F93F-4C76-B2FA-C69D3BDB73CA}|EmployeeManegement.Api\\EmployeeManegement.Api.csproj|d:\\vaijul balar\\employeemanagementservice\\employeemanegement.api\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B07FFB0-F93F-4C76-B2FA-C69D3BDB73CA}|EmployeeManegement.Api\\EmployeeManegement.Api.csproj|solutionrelative:employeemanegement.api\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B07FFB0-F93F-4C76-B2FA-C69D3BDB73CA}|EmployeeManegement.Api\\EmployeeManegement.Api.csproj|d:\\vaijul balar\\employeemanagementservice\\employeemanegement.api\\controllers\\emoloyeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B07FFB0-F93F-4C76-B2FA-C69D3BDB73CA}|EmployeeManegement.Api\\EmployeeManegement.Api.csproj|solutionrelative:employeemanegement.api\\controllers\\emoloyeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA7CB2C0-9516-4424-BB0E-007C77D4739F}|EmployeeManagement.DataAccess\\EmployeeManagement.DataAccess.csproj|d:\\vaijul balar\\employeemanagementservice\\employeemanagement.dataaccess\\context\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,24 +30,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmoloyeeController.cs",
-              "DocumentMoniker": "D:\\Vaijul Balar\\EmployeeManagementService\\EmployeeManegement.Api\\Controllers\\EmoloyeeController.cs",
-              "RelativeDocumentMoniker": "EmployeeManegement.Api\\Controllers\\EmoloyeeController.cs",
-              "ToolTip": "D:\\Vaijul Balar\\EmployeeManagementService\\EmployeeManegement.Api\\Controllers\\EmoloyeeController.cs",
-              "RelativeToolTip": "EmployeeManegement.Api\\Controllers\\EmoloyeeController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB4AAAARAAAA",
+              "DocumentIndex": 1,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\Vaijul Balar\\EmployeeManagementService\\EmployeeManagement.Domain\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Domain\\Services\\EmployeeService.cs",
+              "ToolTip": "D:\\Vaijul Balar\\EmployeeManagementService\\EmployeeManagement.Domain\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "EmployeeManagement.Domain\\Services\\EmployeeService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T10:16:26.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Vaijul Balar\\EmployeeManagementService\\EmployeeManegement.Api\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeManegement.Api\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Vaijul Balar\\EmployeeManagementService\\EmployeeManegement.Api\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeManegement.Api\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBsAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-26T08:02:37.418Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ApiDbContext.cs",
               "DocumentMoniker": "D:\\Vaijul Balar\\EmployeeManagementService\\EmployeeManagement.DataAccess\\Context\\ApiDbContext.cs",
               "RelativeDocumentMoniker": "EmployeeManagement.DataAccess\\Context\\ApiDbContext.cs",
@@ -51,34 +71,31 @@
               "RelativeToolTip": "EmployeeManagement.DataAccess\\Context\\ApiDbContext.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAcwBcAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T07:06:22.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-26T07:06:22.599Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "TokenController.cs",
               "DocumentMoniker": "D:\\Vaijul Balar\\EmployeeManagementService\\EmployeeManegement.Api\\Controllers\\TokenController.cs",
               "RelativeDocumentMoniker": "EmployeeManegement.Api\\Controllers\\TokenController.cs",
               "ToolTip": "D:\\Vaijul Balar\\EmployeeManagementService\\EmployeeManegement.Api\\Controllers\\TokenController.cs",
               "RelativeToolTip": "EmployeeManegement.Api\\Controllers\\TokenController.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAowDIAAAA0AAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwEAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T07:09:16.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-26T07:09:16.198Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Vaijul Balar\\EmployeeManagementService\\EmployeeManegement.Api\\Program.cs",
               "RelativeDocumentMoniker": "EmployeeManegement.Api\\Program.cs",
               "ToolTip": "D:\\Vaijul Balar\\EmployeeManagementService\\EmployeeManegement.Api\\Program.cs",
               "RelativeToolTip": "EmployeeManegement.Api\\Program.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAqwDAAAAAFAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAqwDUAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T06:49:58.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-26T06:49:58.398Z"
             }
           ]
         }
